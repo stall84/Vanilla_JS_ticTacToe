@@ -1,0 +1,37 @@
+
+
+
+
+
+
+
+.player-info {
+    margin: 0 auto;
+    width: 70%;
+}
+
+.play-button {
+    margin: 0 auto;
+}
+
+#board {
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    height: 270px;
+    width: 245px;
+  }
+
+  .cell {
+    border: 2px solid black;
+    height: 80px;
+    width: 80px;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  .mid-title {
+    color: red;
+  }
